@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "5116611523:AAFOBHE4qNCV-vrFmHZF_-V6AC12KiDGsJI"
+    APP_ID = "15353622"
+    API_HASH = "dd2993a34a1cf6ff991b64fa12266581"
+    DATABASE_URL = "postgres://yyavxqbhepqbwy:32b5410f768beb8c46310b0b74083ecc38af8bc8e13b6f8c157b947cb76216e3@ec2-3-227-195-74.compute-1.amazonaws.com:5432/d6uvi80jgtkkm9"
+    SUDO_USERS = "674030701 1317648659" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/teluguplayitlinks"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "1031939891379-899srb9g16ntaaqnuqk9hj9ub03mig7n.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
